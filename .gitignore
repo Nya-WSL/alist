@@ -1,7 +1,6 @@
 .idea/
 .DS_Store
 output/
-/dist/
 
 # Binaries for programs and plugins
 *.exe
@@ -27,5 +26,3 @@ output/
 /log/
 /lang/
 /daemon/
-
-/!public/dist/README.md
